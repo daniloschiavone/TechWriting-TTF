@@ -31,14 +31,10 @@ Visita \[GitHub](https://github.com) per saperne di più.
 
 
 | Linguaggio | Difficoltà |
-
-|------------|-----------|
-
-| HTML       | Facile    |
-
-| JavaScript | Media     |
-
-| Python     | Media     |
+|------------|------------|
+| HTML       | Facile     |
+| JavaScript | Media      |
+| Python     | Media      |
 
 
 
@@ -51,4 +47,3 @@ Visita \[GitHub](https://github.com) per saperne di più.
 
 
 <!-- Ricorda di aggiornare questo file -->
-
